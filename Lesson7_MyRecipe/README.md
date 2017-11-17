@@ -13,9 +13,8 @@ Web Application Development
 (In this assignment we learned how to use jquery to help build a recipe app.)
 
 ### View Project Online:
-(https://github.com/jsj15c/lesson7_jquery/
-or
-https://jsj15c.github.io/lesson7_jquery/)
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to use chrome developer tools to use the javascript console pane
